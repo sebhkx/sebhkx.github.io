@@ -1,5 +1,5 @@
 ### Table of Contents
-[• Visual Studio Code](#visual-studio-code) 
+• [Visual Studio Code](#visual-studio-code) 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
