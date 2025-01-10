@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Click [here](#third-heading) to get to the third section
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -61,6 +63,8 @@ end
 ### There's a horizontal rule below this.
 
 * * *
+
+<a id="third-heading"></a>
 
 ### Here is an unordered list:
 
