@@ -8,6 +8,8 @@ layout: default
 _yay_
 Why just why
 
+* * *
+
 ## Starting anew
 
 Years ago I bought a domain sebhong.com and I used the classic HTML, CSS and JavaScript combo to build the website. 
