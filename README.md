@@ -1,2 +1,2 @@
-# sebdocs.github.io
-GitHub Pages
+# sebhkx.github.io
+VitePress deployed on GitHub Pages
