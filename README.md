@@ -4,16 +4,11 @@ VitePress deployed on GitHub Pages
 
 # Roadmap
 
-GitHub Pages
+> [x] GitHub Pages  
+>↓  
+Cloudflare Pages  
+>↓  
+Render/Railway  
+>↓  
+VPS with docker (Vultr)
 
-      ↓
-
-Cloudflare Pages
-
-      ↓
-
-Render/Railway
-
-      ↓
-
-Single VPS with Docker (Vultr)
