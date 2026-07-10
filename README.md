@@ -9,13 +9,10 @@ npm run docs:dev
 http://localhost:5173
 
 
-# Roadmap
+## Roadmap
 
-> [x] GitHub Pages  
->↓  
-> [x] Cloudflare Pages (with serverless worker)
->↓  
-Render/Railway | fly.io (PaaS)
->↓  
-VPS with docker (Vultr)
+- [x] **GitHub Pages**
+- [x] **Cloudflare Pages** *(with serverless worker)*
+- [ ] **Render / Railway** or **fly.io / pandastack.io** *(PaaS)*
+- [ ] **VPS with Docker** *(Vultr)*
 
