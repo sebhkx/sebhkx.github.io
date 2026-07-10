@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "my projects"
   # text: "welcome to my documentation"
-  tagline: haha hello world
+  tagline: "velocity, agentic wisdom. move fast & fix things"
   # actions:
   #   - theme: brand
   #     text: Markdown Examples
