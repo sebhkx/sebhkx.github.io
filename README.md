@@ -13,9 +13,9 @@ http://localhost:5173
 
 > [x] GitHub Pages  
 >↓  
-Cloudflare Pages  
+> [x] Cloudflare Pages (with serverless worker)
 >↓  
-Render/Railway  
+Render/Railway | fly.io (PaaS)
 >↓  
 VPS with docker (Vultr)
 
